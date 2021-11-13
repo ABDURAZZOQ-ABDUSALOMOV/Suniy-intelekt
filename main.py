@@ -1,5 +1,5 @@
 from worker import alisa, mainA1
-
+# Powered By Abdurazzoq
 print('Assalomu alaykum')
 print('Dasturimizga Hush kelibsiz')
 print('Men siz bilan gaplasha olaman ')
